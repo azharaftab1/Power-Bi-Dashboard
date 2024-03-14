@@ -1,4 +1,4 @@
- Analysed Covud-19 Data And Created Dashboard Using Microsoft Power BI.
+ Analyzed Covid-19 Data And Created Dashboard Using Microsoft Power BI.
  Learnings- 
  Data Collection & Preparation: Start by collecting COVID-19 data from credible sources and ensure it's cleaned and structured properly for 
  analysis.
